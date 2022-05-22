@@ -1,0 +1,14 @@
+.form-container{
+    min-height: 100vh;
+    min-width: 100%;
+    background-color: tomato;
+}
+.form-div{
+    width: 60%;
+    padding: 10px;
+    position: absolute;
+    top: 10vh;
+    left: 20%;
+    min-height: 80vh;
+    background-color: white;
+}
